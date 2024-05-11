@@ -1,11 +1,10 @@
 <script setup>
 
-
 </script>
 
 <template>
   <div>
-    <router-view/>
+    登录页面
   </div>
 
 </template>
