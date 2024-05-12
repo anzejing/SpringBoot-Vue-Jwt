@@ -2,6 +2,8 @@ spring:
   application:
     name: my-project-backend
   security:
+    filter:
+      order: -100
     jwt:
       key: abcdefghijk
       expire: 7
